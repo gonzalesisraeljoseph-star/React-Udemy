@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>Learn react with chaicode.com</h1>
-      <p>This is a sub heading.</p>
+      <p>I would love to change.</p>
     </>
   );
 }
